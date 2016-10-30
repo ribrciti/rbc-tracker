@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote', '~> 1.2', '>= 1.2.6'
 
 group :development, :test do
   gem 'byebug', platform: :mri
